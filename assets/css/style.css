@@ -1116,7 +1116,7 @@ footer {
 }
 
 
-@media (min-width: 529px) and (max-width: 800px){
+@media (min-width: 530px) and (max-width: 800px){
     .menu-opener {
         display: block;
         width: 40px;
@@ -1244,7 +1244,7 @@ footer {
     }
 }
 
-@media (max-width: 528px){
+@media (max-width: 530px){
     .menu-opener {
         display: block;
         width: 40px;
